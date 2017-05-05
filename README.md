@@ -1,4 +1,4 @@
-= PwlLang
+# PwlLang
 
 A little language extension based on [mbeddr](https://mbeddr.com) for Papers We Love @ Seattle.
 
